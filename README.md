@@ -1,4 +1,4 @@
-### Simple Classic Login Form with Bootstrap 5
+### Simple Basic Login (BaLog) Form with Bootstrap 5
 > Please Connect internet because this is use CDN Bootstrap :)
 
 ### Screenshoot
